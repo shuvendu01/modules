@@ -1,12 +1,12 @@
 {
     "name": "shuvendu01/modules",
-    "description": "Crater Module Management Package",
+    "description": "Xcelerate Module Management Package",
     "keywords": [
         "modules",
         "laravel",
         "module",
         "rad",
-        "crater"
+        "xcelerate"
     ],
     "license": "MIT",
     "require": {
